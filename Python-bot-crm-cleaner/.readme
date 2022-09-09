@@ -1,0 +1,13 @@
+.
+
+A automação está rodando normalmente, apenas necessário algumas configurações quanto ao tratamento do erro.
+
+Bot construido na intenção de remover imoveis inativos nos quais não deveriam ser publicados. Imóveis cujo interesse já expirou. Imóveis cujo estão sem foto ou já foram removidos
+da pauta da imobiliaria.
+
+ É possível realizar melhoras referentes a velocidade da automação, bem como a funcionalidade quando erro.
+
+ Não tratei a automação na primeira inicialização, ela vai falhar pois não consegue encontrar o icone do filtro, deve ser feito um click manual ou automatizar essa parte.
+
+
+A automação executa sem maiores problemas, o bloco Try realmente economiza tempo.
